@@ -1,4 +1,4 @@
 # Learning_git
 Learning Git
 <br>
-Author ~Harsh Gupta
+Author ~Harsh Kr Gupta
